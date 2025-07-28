@@ -2,8 +2,6 @@
 
 A simple yet effective **To-Do List application** built in Python for the command line — enhanced with emojis to make task management more fun and engaging! 🐍✨
 
-> 🎯 Perfect for showcasing your Python skills in file handling, control flow, and CLI-based user interaction — a great addition to any beginner portfolio or resume.
-
 ---
 
 ## 🔧 Features
