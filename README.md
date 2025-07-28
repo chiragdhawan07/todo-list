@@ -33,7 +33,7 @@ A simple yet effective **To-Do List application** built in Python for the comman
    ```
 4. Follow the on-screen menu to manage your tasks.
 
-##💡 Skills Used
+## 💡 Skills Used
 
 - Python Basics
 - File I/O
